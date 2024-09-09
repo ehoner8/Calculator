@@ -1,0 +1,3 @@
+usage: ./calc [-mh]
+    -m: use libm trig function implementations instead of custom ones.
+    -h: show help
